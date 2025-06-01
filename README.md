@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llaI'm me llamo Daniela Diaz</h1>
 <h3 align="center">Soy una apasionada por los cambios y vivo disfrutando mi transicion al mundo de la tecnologia</h3>
 
-- 💬 Ask me about **JSON / Python / SQL / Postman**
+- 💬 Estoy estudiando y practicando SQL y Python en diferentes proyectos en un Bootcamp de Pruebas de Control de Calidad Triple Ten.**
 
 - 📫 How to reach me **diazdaira294@gmail.com**
 
